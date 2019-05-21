@@ -1,2 +1,0 @@
-secreate api passwords.
-api keys.
